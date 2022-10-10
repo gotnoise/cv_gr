@@ -1,0 +1,17 @@
+body {
+  background-color: #F6F7D7;
+  font-family: Monospace;
+}
+
+hr {
+  background-color: #F6F7D7;
+  border-color: #FF165D;
+  border-width: 10px;
+  border-style: dotted none none;
+  width: 10%;
+}
+
+h1 {
+  color: #3EC1D3;
+
+}
